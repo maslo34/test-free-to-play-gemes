@@ -1,1 +1,2 @@
 # test-free-to-play-gemes
+[![Maintainability](https://api.codeclimate.com/v1/badges/2f1507e733ebe9e46ee6/maintainability)](https://codeclimate.com/github/maslo34/test-free-to-play-gemes/maintainability)
